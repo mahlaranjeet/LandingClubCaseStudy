@@ -51,11 +51,12 @@
 
 ## Contact
 https://github.com/mahlaranjeet
-mahlaranjeet@gmail.com
+
+Email: mahlaranjeet@gmail.com
 
 
 <!-- Optional -->
 <!-- ## License -->
 <!-- this project is open source -->
 
-<!-- You don't have to include all sections - just the one's relevant to your project --># LandingClubCaseStudy
+
