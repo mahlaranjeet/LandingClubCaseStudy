@@ -5,7 +5,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Conclusions](#conclusions)
-* [Major factor affecting loan outcomes](#Major factor affecting loan outcomes)
+* [Major factor affecting loan outcomes](#Major-factor-affecting-loan-outcomes)
 * [Technologies Used](#technologies-used)
 * [Acknowledgements](#acknowledgements)
 
@@ -20,8 +20,8 @@
 - people who have public record of bank reputcy are more likely to default
 - low income is a driving factor of loan default
 - majority of loan are good loans 
-- debt to income ratio when it is high loan default can hppen
-- 
+- debt to income ratio (DTI) when it is high loan default can hppen
+- People who have bad loan grade are more likely to default
 
 
 ## Mmajor fector affecting loan outcomes 
@@ -36,11 +36,11 @@
 
 
 
-## Technologies Used
+## Technologies Used (I have used some python packages and mostly are latest versions)
 -numpy 1.23.5
--pandas
--seborn
--plotly
+-pandas 1.5.2
+-seborn 0.12.1
+-plotly 5.11.0
 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
