@@ -24,7 +24,7 @@
 - People who have bad loan grade are more likely to default
 
 
-## Mmajor fector affecting loan outcomes 
+## Major factor affecting loan outcomes
 
 - LOW LOAN GRADES (E/G/F)
 - LOAN VERIFICATION STATUS
